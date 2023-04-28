@@ -1,5 +1,5 @@
 h1 {
-    color: #762079;
+    color: #300331;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
@@ -8,9 +8,18 @@ h1 {
 
 
 h2 {
-    color: #062846;
+    color: #051424;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
     font-size: 50px;
+}
+
+.newsletter {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    
 }
