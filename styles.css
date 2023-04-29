@@ -98,6 +98,7 @@ li {
 
 .join-newsletter {
     font-weight: bold;
+    font-size: 18px;
     margin-top: 30px;
 }
 
@@ -117,7 +118,7 @@ li {
     margin: 15px;
     padding: 10px;
     width: 30%;
-    background-color: #222222;
+    background-color: #051424;
     border: none;
     border-radius: 10px;
 }
