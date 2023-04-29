@@ -6,6 +6,7 @@ h1 {
     font-weight: bold;
     text-align: center;
     font-size: 70px;
+    margin-bottom: 25px;
 }
 
 
@@ -14,12 +15,17 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     text-align: center;
-    font-size: 50px;
+    font-size: 30px;
+}
+
+h3,h4 {
+    font-size: 20px;
 }
 
 
 h3, h4, .joinNL {
     color: #222222;
+    text-align: center;
 }
 
 .mainContent {
@@ -28,10 +34,31 @@ h3, h4, .joinNL {
     text-align: center;
 }
 
+ul {
+    padding: 0;;
+}
+
 li {
     list-style-type: none;
     border-style: solid;
     border-color: white;
+}
+
+.fun-facts {
+    border-style: dashed double none ;
+    margin-top: 60px;
+}
+
+
+.discover-work {
+    margin-top: 90px;
+    border-style: none double dashed;
+    margin-bottom: 60px;
+}
+
+.discover-work-list {
+    display: flex;
+    justify-content: center;
 }
 
 .connect-button {
@@ -42,7 +69,7 @@ li {
     font-size: 20px;
     padding: 15px;
     border-radius: 10px;
-    width: 25%;
+    width: 100%;
     border-style: solid;
     border-color: white;
 }
@@ -54,7 +81,7 @@ li {
 
 .email-input {
    width: 34%;
-   height: 30px;
+   line-height: 30px;
    text-align: center;
    border-radius: 10px;
    border-style: solid;
