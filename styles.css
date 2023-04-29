@@ -104,6 +104,7 @@ li {
 
 .email-input {
    width: 34%;
+   font-size: 15px;
    line-height: 30px;
    text-align: center;
    border-radius: 10px;
